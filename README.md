@@ -46,6 +46,7 @@ Prior to analysis, basic statistics for the dataset regarding reviews were compu
 - Minimum: 1.0
 
 **Does a lower product price correlate with a higher number of reviews?**:
+
 ![img](https://github.com/1109min/Irvine_Tech_Hub/assets/112641576/0f5e830a-d69a-424f-bac3-6987409c90c8)
 
 ## Results
