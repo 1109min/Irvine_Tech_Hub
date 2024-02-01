@@ -30,6 +30,7 @@ The dataset comprises 1,472 rows and includes the following columns:
 - Numeric units, such as "k" in the review column, were standardized to numerical values.
 - Rows with zero prices were removed.
 - Leading string characters, such as commas, in the price column were removed to retain only numerical values.
+- For ease of view, the price is categorized into 100$ units
 
 ### Data Visualization
 
