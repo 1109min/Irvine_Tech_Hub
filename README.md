@@ -53,6 +53,3 @@ Prior to analysis, basic statistics for the dataset regarding reviews were compu
 
 It was confirmed that reviews of products with a low price (~100) were significantly more than those with a higher price.
 In addition, the higher the price, the fewer reviews, indicating that home and living category items are chosen by consumers as the price is lower.
-
-## Self-Feedback
-
