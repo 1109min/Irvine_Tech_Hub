@@ -48,7 +48,7 @@ Prior to analysis, basic statistics for the dataset regarding reviews were compu
 
 **Does a lower product price correlate with a higher number of reviews?**:
 
-![]("https://github.com/1109min/Irvine_Tech_Hub/assets/112641576/0f5e830a-d69a-424f-bac3-6987409c90c8")
+![](https://github.com/1109min/Irvine_Tech_Hub/assets/112641576/0f5e830a-d69a-424f-bac3-6987409c90c8)
 
 - axis-X : price range
 - axis-Y : average review range
