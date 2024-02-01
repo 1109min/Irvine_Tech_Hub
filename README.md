@@ -45,7 +45,9 @@ Prior to analysis, basic statistics for the dataset regarding reviews were compu
 - Maximum: 92128.0
 - Minimum: 1.0
 
-- **Does a lower product price correlate with a higher number of reviews?**:
+
+
+**Does a lower product price correlate with a higher number of reviews?**:
 
 
 
